@@ -1,4 +1,4 @@
-# CherryPy-BootStrap-Example
+# CherryPy-Bootstrap-Example
 Proof of concept static HTML5 website via Python that generates a random 8-digit hexadecimal value.
 
 # Requirements
